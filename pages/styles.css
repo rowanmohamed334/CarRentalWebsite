@@ -1,0 +1,39 @@
+.background{
+    background-color: rgb(27 27 25);
+}
+.inner {
+    text-align: center;
+}
+.container{
+    width: 600px;
+    padding-bottom:50px;
+    text-align: center;
+    margin-top: 200px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    background-color:#ffff;
+    opacity: 0.58;
+    border: 1px solid;
+    box-shadow: 5px 5px;
+    border-radius: 25px;
+}
+.signupForm
+{
+    display: none;
+}
+.ftitle{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.subbtn{
+    text-align: center;
+    padding: 10px 15px 10px 15px;
+    margin-left: 30px;
+    cursor: pointer;
+    background-color: white;
+    box-shadow: 0.5px 4px;
+    font-weight: bold;
+    border-radius: 25px;
+
+}
